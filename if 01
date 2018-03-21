@@ -1,0 +1,7 @@
+x = input('37*2=')
+a = int(x)
+
+if a==74:
+    print("Good job~")
+else:
+    print('Try again ㅜㅜ')
